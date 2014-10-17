@@ -1,6 +1,6 @@
 {
   "name": "monitor-plugin-process",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Middleware plugin which collects current process metrics.",
   "author": {
     "name": "Athan Reines",
